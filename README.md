@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Nicolas 👋
 
-<!--
-**nicolaslimaapolinario/nicolaslimaapolinario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de *Inteligência Artificial na FIAP*, em Guarulhos (SP), em busca do meu primeiro estágio em IA e dados.
 
-Here are some ideas to get you started:
+## O que estou estudando
+- Python
+- Lógica de programação
+- Fundamentos de Inteligência Artificial
+- Excel e Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certificados
+- Python — Santander Open Academy (8h)
+- Power BI — Santander Open Academy (8h)
+- Excel: do intermediário ao avançado — Santander Open Academy (8h)
+- Domine a IA com Gemini — Santander Open Academy
+- Lógica de programação com JavaScript — Alura
+- Lógica de programação: funções e listas — Alura
+
+## Projetos
+Estou construindo meus primeiros projetos em Python. Em breve eles aparecem aqui.
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/nicolas-lima-725454266/
